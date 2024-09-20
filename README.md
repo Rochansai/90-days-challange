@@ -7,3 +7,6 @@ expression,flow control,loops,modular,or,and,palindrome,reverse string,function
 DAY-2
 leetcode-score of a string , ascii values , final value after performing operations, Defanging an IP Address
 Jewels and Stones
+
+DAY -3
+Maximum Number of Words Found in Sentences,
