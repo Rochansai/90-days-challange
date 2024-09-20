@@ -9,4 +9,5 @@ leetcode-score of a string , ascii values , final value after performing operati
 Jewels and Stones
 
 DAY -3
-Maximum Number of Words Found in Sentences, 2D arrays
+Maximum Number of Words Found in Sentences, 2D arrays, patterns in python
+
