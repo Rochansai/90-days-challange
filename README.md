@@ -12,7 +12,7 @@ DAY -3
 Maximum Number of Words Found in Sentences, 2D arrays, patterns in python.
 
 DAY -4
-patterns in python , time complexity , The Two Sneaky Numbers of Digitville
+patterns in python , time complexity , The Two Sneaky Numbers of Digitville.
 
 DAY -5
 patterns in python , time complexity
