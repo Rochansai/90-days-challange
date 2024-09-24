@@ -15,7 +15,7 @@ DAY -4
 patterns in python , time complexity , The Two Sneaky Numbers of Digitville.
 
 DAY -5
-patterns in python , time complexity
+patterns in python , time complexity.
 
 DAY -6
 time complexity
