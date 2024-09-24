@@ -21,5 +21,6 @@ DAY -6
 time complexity
 
 DAY -6
+Running Sum of 1d Array
 
 
