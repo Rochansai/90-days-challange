@@ -23,5 +23,7 @@ time complexity.
 DAY -6
 Running Sum of 1d Array, Find Pivot Index, Majority Element , Fibonacci Number , Squares of a Sorted Array , Covered 10 codes in top 100 codes.
 
+DAY - 7
+
 
 
