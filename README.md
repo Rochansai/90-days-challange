@@ -26,6 +26,9 @@ Running Sum of 1d Array, Find Pivot Index, Majority Element , Fibonacci Number ,
 DAY - 7
 leetcode problems.
 
+Day - 8
+Maximum Difference Between Increasing Elements,
+
 
 
 
