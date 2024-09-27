@@ -29,6 +29,9 @@ leetcode problems.
 Day - 8
 Maximum Difference Between Increasing Elements,two Furthest Houses With Different Colors ,Two Furthest Houses With Different Colors
 
+DAY - 9
+
+
 
 
 
