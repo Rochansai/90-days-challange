@@ -33,7 +33,7 @@ DAY - 9
 Replace Elements with Greatest Element on Right Side , inputs in python , Longest Common Prefix,Length of Last Word
 
 DAY - 10
-
+Find the Index of the First Occurrence in a String, Find Customer Referee
 
 
 
