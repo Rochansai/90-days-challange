@@ -32,6 +32,9 @@ Maximum Difference Between Increasing Elements,two Furthest Houses With Differen
 DAY - 9
 Replace Elements with Greatest Element on Right Side , inputs in python , Longest Common Prefix,Length of Last Word
 
+DAY - 10
+
+
 
 
 
