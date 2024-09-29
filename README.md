@@ -27,7 +27,7 @@ DAY - 7
 leetcode problems.
 
 Day - 8
-Maximum Difference Between Increasing Elements,two Furthest Houses With Different Colors ,Two Furthest Houses With Different Colors
+Maximum Difference Between Increasing Elements,two Furthest Houses With Different Colors ,Two Furthest Houses With Different Colors.
 
 DAY - 9
 Replace Elements with Greatest Element on Right Side , inputs in python , Longest Common Prefix,Length of Last Word.
